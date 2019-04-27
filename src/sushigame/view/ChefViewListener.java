@@ -1,5 +1,5 @@
 package sushigame.view;
-
+ 
 import comp401sushi.Plate;
 import comp401sushi.Sushi;
 
